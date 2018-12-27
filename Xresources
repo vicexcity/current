@@ -64,5 +64,3 @@ rofi.color-urgent: 					 #002b37, #da4281, #002b37, #003642, #da4281
 !rofi.color-normal:					 #000000, #ffffff, #000000, #333333, #ffffff
 !rofi.color-active:					 #002b37, #008ed4, #002b37, #003642, #008ed4
 !rofi.color-urgent: 					 #002b37, #da4281, #002b37, #003642, #da4281
-
-
